@@ -19,7 +19,7 @@ plugins:
 ## personalize your slide show
 title:       Clara Lee
 author:      Clara Lee
-description: IG: @claraa_lee
+description: A look into my life in quarantine
 
 sass:
   style:     :compressed
