@@ -25,8 +25,8 @@ sass:
   style:     :compressed
 
 ## solarized variant (dark/light)
-  beige:   light
-  theme:   "beige"
+  solarized:   light
+  theme:   beige
 
 slideNumber:
   # Slide number formatting can be configured using these variables:
