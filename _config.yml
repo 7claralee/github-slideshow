@@ -3,7 +3,7 @@ future:      false
 # Set baseurl to the base path of the site eg "/mytalk"
 # baseurl:     "/github-slideshow"
 # The allowed values are 'rouge', 'pygments' or null.
-highlighter: rouge
+highlighter: pygments
 # markdown - Valid options are [ maruku | rdiscount | kramdown | redcarpet ]
 markdown:    kramdown
 lsi:         false
@@ -25,7 +25,7 @@ sass:
   style:     :compressed
 
 ## solarized variant (dark/light)
-solarized:
+solarized:   light
   theme:     light
 
 slideNumber:
